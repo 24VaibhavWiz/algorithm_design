@@ -1,3 +1,12 @@
+/*
+NAME - BAIBHAB SWAIN
+REGD_NO - 1641012206
+BRANCH - CSE
+SEC - F
+DESCRIPTION - AUTOMATED LIBRARY MANAGEMENT SYSTEM
+LANGUAGE - C
+*/
+
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
